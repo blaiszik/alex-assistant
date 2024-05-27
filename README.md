@@ -5,6 +5,7 @@
 </p>
 A simple tutorial showing how to capture the screen, recognize speech, add context, and query Anthropic API
 
+
 *Disclaimer: This assistant is not meant to be used for real proposal development, but is simply a fun demo that combines many inputs (voice, image, text) and shows how to weave these into an application with Anthropic Claude.*
 
 ## Features
