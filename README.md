@@ -67,7 +67,7 @@ export ANTHROPIC_API_KEY='your-api-key-here'
 2. Run the main script:
 
 ```bash
-python anthropic_screen_capturer
+python alex.py
 ```
 
 Speak your command when prompted. The tool will capture the screen and query the Anthropic API with the captured image and spoken command.
