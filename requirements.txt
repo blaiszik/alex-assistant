@@ -1,0 +1,6 @@
+anthropic
+mss
+SpeechRecognition
+Pillow
+rich
+python-dotenv
